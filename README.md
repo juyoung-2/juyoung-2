@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hello&animation=fadeIn&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=juyoung's%20GitHub&animation=fadeIn&fontColor=000000&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello World </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 꾸준히 성장하는 개발자입니다</li><li> 꼭 취업하고 싶어요 </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  저는 꾸준히 성장하는 개발자입니다 </li> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -29,8 +29,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyoung-2&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-   
-
+    
 <!--
 **juyoung-2/juyoung-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
